@@ -1177,6 +1177,18 @@ input:checked + .toggle-bg {
   height: 3rem;
 }
 
+.h-16 {
+  height: 4rem;
+}
+
+.h-20 {
+  height: 5rem;
+}
+
+.h-24 {
+  height: 6rem;
+}
+
 .w-full {
   width: 100%;
 }
@@ -2220,6 +2232,26 @@ input:checked + .toggle-bg {
 
   .sm\:h-9 {
     height: 2.25rem;
+  }
+
+  .sm\:h-1 {
+    height: 0.25rem;
+  }
+
+  .sm\:h-12 {
+    height: 3rem;
+  }
+
+  .sm\:h-16 {
+    height: 4rem;
+  }
+
+  .sm\:h-20 {
+    height: 5rem;
+  }
+
+  .sm\:h-24 {
+    height: 6rem;
   }
 
   .sm\:w-auto {
